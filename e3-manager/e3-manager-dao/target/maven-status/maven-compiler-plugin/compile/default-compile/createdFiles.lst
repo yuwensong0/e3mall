@@ -1,0 +1,11 @@
+yu\e3mall\mapper\TbItemMapper.class
+yu\e3mall\mapper\TbItemCatMapper.class
+yu\e3mall\mapper\TbItemParamItemMapper.class
+yu\e3mall\mapper\TbItemDescMapper.class
+yu\e3mall\mapper\TbItemParamMapper.class
+yu\e3mall\mapper\TbContentMapper.class
+yu\e3mall\mapper\TbOrderMapper.class
+yu\e3mall\mapper\TbOrderItemMapper.class
+yu\e3mall\mapper\TbContentCategoryMapper.class
+yu\e3mall\mapper\TbOrderShippingMapper.class
+yu\e3mall\mapper\TbUserMapper.class
